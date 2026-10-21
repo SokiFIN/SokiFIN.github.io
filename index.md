@@ -5,12 +5,14 @@
   <br>
   I've always been interested in user interface design and how to make interfaces more accessible for everyone. I enjoy creating UI that improves the player's experience and makes games more enjoyable.
   </p></div>
-
-### Projects
-
+  
 <div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 30px;">
-  Strung Flowers | Windows 10 - 11 Game. </p> </b>
-</div>
+  Projects
+p> </b> </div>
+
+<div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 15px;">
+  Strung Flowers | Windows 10 - 11 Game. 
+</p> </b> </div>
 <details open>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/newstrungflowers.png" alt="StrungFlowers" width="600" height="300">
@@ -49,7 +51,9 @@
 <br>
 </details>
 
-##### Delivery Rush: Timeout | Mobile Game.
+<div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 15px;">
+Delivery Rush: Timeout | Mobile Game.
+<p> </b> </div>
 <details open>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/deliveryrush.png" alt="DeliveryRush" width= "600" height="300">
@@ -90,7 +94,9 @@
 <br>
 </details>
 
-##### Strollmon - Walk Your Pet | Mobile Game.
+<div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 15px;">
+  Strollmon - Walk Your Pet | Mobile Game.
+<p> </b> </div>
 <details open>
   <br>
   <div style="display: flex; justify-content: center; align-items: center;">
@@ -119,7 +125,9 @@
 
 </details>
 
-### Studies
+<div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 30px;">
+Studies
+<p> </b> </div>
 <div style="margin-left: 10px; padding-top: -2px;">
   Kajaani University of Applied Sciences, <br>
   Bachelor of Business Administration, Game Development:
@@ -128,7 +136,9 @@
   2023 - 2026
 </div>
 
-### Contact me.
+<div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 30px;">
+Contact me.
+<p> </b> </div>
 
 <div style="margin-left: 10px; padding-top: -2px;"> 
 <img src="assets/picture/email.png" alt="email" width="30" style="position: relative; top: 5px;">
