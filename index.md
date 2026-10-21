@@ -1,17 +1,17 @@
 # About me 
 <div style="display: flex; align-items: center; line-height: 1.5;">
   <img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="300"> <br>  <br>
-  <p style= "font-size: 20px"> I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
+  <br><p style= "font-size: 20px"> I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
   <br>
   I've always been interested in user interface design and how to make interfaces more accessible for everyone. I enjoy creating UI that improves the player's experience and makes games more enjoyable.
   </p></div>
   
 <div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
-  Projects
-<p> </b> </div>
+Projects
+</p> </b> </div>
 
 <div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 15px;">
-  Strung Flowers | Windows 10 - 11 Game. 
+Strung Flowers | Windows 10 - 11 Game. 
 </p> </b> </div>
 <details open>
   <div style="display: flex; justify-content: center; align-items: center;">
@@ -53,7 +53,7 @@
 
 <div style= "line-height: 1;"> <b> <p style= "font-size: 15px;">
 Delivery Rush: Timeout | Mobile Game.
-<p> </b> </div>
+</p> </b> </div>
 <details open>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/deliveryrush.png" alt="DeliveryRush" width= "600" height="300">
@@ -96,7 +96,7 @@ Delivery Rush: Timeout | Mobile Game.
 
 <div style= "line-height: 1;"> <b> <p style= "font-size: 15px;">
   Strollmon - Walk Your Pet | Mobile Game.
-<p> </b> </div>
+</p> </b> </div>
 <details open>
   <br>
   <div style="display: flex; justify-content: center; align-items: center;">
@@ -127,7 +127,7 @@ Delivery Rush: Timeout | Mobile Game.
 
 <div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
 Studies
-<p> </b> </div>
+</p> </b> </div>
 <div style="margin-left: 10px; padding-top: -2px;">
   Kajaani University of Applied Sciences, <br>
   Bachelor of Business Administration, Game Development:
@@ -138,7 +138,7 @@ Studies
 
 <div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 30px;">
 Contact me.
-<p> </b> </div>
+</p> </b> </div>
 
 <div style="margin-left: 10px; padding-top: -2px;"> 
 <img src="assets/picture/email.png" alt="email" width="30" style="position: relative; top: 5px;">
