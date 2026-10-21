@@ -16,7 +16,7 @@
   Strung Flowers | Windows 10 - 11 Game. 
 </p> </b> </div>
 <details open>
-  <summary style="margin-left: 10px;">Details.</summary>
+  <summary style="margin-left: 10px;"></summary>
     <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/newstrungflowers.png" alt="StrungFlowers" width="600" height="300">
@@ -59,7 +59,7 @@
 Delivery Rush: Timeout | Mobile Game.
 </p> </b> </div>
 <details open>
-  <summary style="margin-left: 10px;">Details.</summary>
+  <summary style="margin-left: 10px;"></summary>
     <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/deliveryrush.png" alt="DeliveryRush" width= "600" height="300">
@@ -104,7 +104,7 @@ Delivery Rush: Timeout | Mobile Game.
   Strollmon - Walk Your Pet | Mobile Game.
 </p> </b> </div>
 <details open>
-  <summary style="margin-left: 10px;">Details.</summary>
+  <summary style="margin-left: 10px;"></summary>
   <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/strollmon.png" alt="Strollmon" width="600" height="300">
@@ -135,7 +135,7 @@ Delivery Rush: Timeout | Mobile Game.
 <div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
 Studies
 </p> </b> </div>
-<div style="margin-left: 10px; padding-top: -2px;"><p style= "font-size: 15px;"> <b>
+<div style="margin-left: 10px; padding-top: -2px;"> <p style="font-size: 15px;"> <b>
   Kajaani University of Applied Sciences, <br>
   Bachelor of Business Administration, Game Development:
 </p></b></div>
