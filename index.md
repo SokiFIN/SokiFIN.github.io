@@ -12,11 +12,11 @@
   Projects
 </p> </b> </div>
 
-<div style= "line-height: 1;"> <b> <p style= "font-size: 20px;">
+<div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px;">
   Strung Flowers | Windows 10 - 11 Game. 
 </p> </b> </div>
 <details open>
-  <div style= "margin-left: 10px><summary></summary></div>
+  <summary style="margin-left: 10px;"> </summary>
     <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/newstrungflowers.png" alt="StrungFlowers" width="600" height="300">
@@ -55,11 +55,11 @@
 <br>
 </details>
 
-<div style= "line-height: 1;"> <b> <p style= "font-size: 20px;">
+<div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px;">
 Delivery Rush: Timeout | Mobile Game.
 </p> </b> </div>
 <details open>
-  <div style= "margin-left: 10px><summary></summary></div>
+  <summary style="margin-left: 10px;"> </summary>
     <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/deliveryrush.png" alt="DeliveryRush" width= "600" height="300">
@@ -100,11 +100,11 @@ Delivery Rush: Timeout | Mobile Game.
 <br>
 </details>
 
-<div style= "line-height: 1;"> <b> <p style= "font-size: 20px;">
+<div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px;">
   Strollmon - Walk Your Pet | Mobile Game.
 </p> </b> </div>
 <details open>
-  <div style= "margin-left: 10px><summary></summary></div>
+  <summary style="margin-left: 10px;"> </summary>
   <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/strollmon.png" alt="Strollmon" width="600" height="300">
