@@ -15,7 +15,7 @@
   </div>
   <div style="margin-left: 10px; padding-top: 2px;">
     3D Dice deckbuilder roguelike made with Unity.
-    <p><b>My contribution</b></p>
+    <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
 
   <div style="margin-left: 20px; line-height: 1;">
@@ -54,7 +54,7 @@
   </div>
   <div style="margin-left: 10px; padding-top: 2px;">
     Time attack mobile game with vehicle deliveries in a city, made with Unity.
-    <p style= "font-size: 20px;"><b>My contribution</b></p>
+    <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
 
   <div style="margin-left: 20px; line-height: 1;">
@@ -96,7 +96,7 @@
   </div>
   <div style="margin-left: 10px; padding-top: 2px;">
     3D game with 2D walk scene where players earn currency to customize their pet, made in Unreal Engine 5.
-    <p><b>My contribution</b></p>
+    <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
 
   <div style="margin-left: 20px; line-height: 1;">
