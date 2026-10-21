@@ -8,7 +8,7 @@
   
 <div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 30px;">
   Projects
-p> </b> </div>
+<p> </b> </div>
 
 <div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 15px;">
   Strung Flowers | Windows 10 - 11 Game. 
