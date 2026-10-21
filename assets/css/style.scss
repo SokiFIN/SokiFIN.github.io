@@ -1,4 +1,10 @@
+
+
 @import "{{ site.theme }}";
+
+body {
+  outline: 10px solid red;
+}
 
 header h1.title {
   font-size: 72px;
