@@ -1,14 +1,16 @@
 # About me 
-<div style="margin-left: 10px; line-height: 1.5;">
+<div style="display: flex; align-items: center; line-height: 1.5;">
   <img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="300"> <br>  <br>
-  <p style= "font-size: 16px"> I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
+  <p style= "font-size: 20px"> I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
   <br>
   I've always been interested in user interface design and how to make interfaces more accessible for everyone. I enjoy creating UI that improves the player's experience and makes games more enjoyable.
   </p></div>
 
 ### Projects
 
-##### Strung Flowers | Windows 10 - 11 Game.
+<div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 30px;">
+  Strung Flowers | Windows 10 - 11 Game. </p> </b>
+</div>
 <details open>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/newstrungflowers.png" alt="StrungFlowers" width="600" height="300">
