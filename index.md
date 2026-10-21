@@ -8,7 +8,7 @@
 
 ### Projects
 
-#### Strung Flowers | Windows 10 - 11 Game.
+##### Strung Flowers | Windows 10 - 11 Game.
 <details open>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/newstrungflowers.png" alt="StrungFlowers" width="600" height="300">
@@ -47,7 +47,7 @@
 <br>
 </details>
 
-#### Delivery Rush: Timeout | Mobile Game.
+##### Delivery Rush: Timeout | Mobile Game.
 <details open>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/deliveryrush.png" alt="DeliveryRush" width= "600" height="300">
@@ -88,7 +88,7 @@
 <br>
 </details>
 
-#### Strollmon - Walk Your Pet | Mobile Game.
+##### Strollmon - Walk Your Pet | Mobile Game.
 <details open>
   <br>
   <div style="display: flex; justify-content: center; align-items: center;">
