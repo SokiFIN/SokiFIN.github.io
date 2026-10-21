@@ -2,19 +2,11 @@
 ---
 @import "{{ site.theme }}";
 
-body {
-  outline: 10px solid red;
-}
-
 header h1.title {
-  font-size: 72px;
+  font-size: 40px;
 }
 
-header p {
-  font-size: 50px;
-}
-
-header h2 {
+#project_tagline {
   font-size: 30px;
 }
 
