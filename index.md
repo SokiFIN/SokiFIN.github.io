@@ -130,13 +130,13 @@ Delivery Rush: Timeout | Mobile Game.
 <div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
 Studies
 </p> </b> </div>
-<div style="margin-left: 10px; padding-top: -2px;">
+<div style="margin-left: 10px; padding-top: -2px;"><p style= "font-size: 15px;"> <b>
   Kajaani University of Applied Sciences, <br>
   Bachelor of Business Administration, Game Development:
-</div>
-<div style="margin-left: 30px;">
+</p></b></div>
+<div style="margin-left: 30px;"><p style= "font-size: 10px;">
   2023 - 2026
-</div>
+</p></div>
 
 <div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
   Contact me.
