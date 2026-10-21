@@ -6,7 +6,7 @@
   I've always been interested in user interface design and how to make interfaces more accessible for everyone. I enjoy creating UI that improves the player's experience and makes games more enjoyable.
   </p></div>
   
-<div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 30px;">
+<div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
   Projects
 <p> </b> </div>
 
@@ -51,7 +51,7 @@
 <br>
 </details>
 
-<div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 15px;">
+<div style= "line-height: 1;"> <b> <p style= "font-size: 15px;">
 Delivery Rush: Timeout | Mobile Game.
 <p> </b> </div>
 <details open>
@@ -94,7 +94,7 @@ Delivery Rush: Timeout | Mobile Game.
 <br>
 </details>
 
-<div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 15px;">
+<div style= "line-height: 1;"> <b> <p style= "font-size: 15px;">
   Strollmon - Walk Your Pet | Mobile Game.
 <p> </b> </div>
 <details open>
@@ -125,7 +125,7 @@ Delivery Rush: Timeout | Mobile Game.
 
 </details>
 
-<div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 30px;">
+<div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
 Studies
 <p> </b> </div>
 <div style="margin-left: 10px; padding-top: -2px;">
