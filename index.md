@@ -54,7 +54,7 @@
   </div>
   <div style="margin-left: 10px; padding-top: 2px;">
     Time attack mobile game with vehicle deliveries in a city, made with Unity.
-    <p><b><font size="20">My contribution</font></b></p>
+    <p style= "font-size: 20px;"><b>My contribution</b></p>
   </div>
 
   <div style="margin-left: 20px; line-height: 1;">
