@@ -3,7 +3,7 @@
   <img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="300"> <br>  <br>
 </div>
 
-<div style= "margin-left: 10px; line-height: 1;"><p style= "font-size: 20px"> I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
+<div style= "margin-left: 10px; line-height: 1;"><p style= "font-size:15px"> I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
   <br><br>
   I've always been interested in user interface design and how to make interfaces more accessible for everyone. I enjoy creating UI that improves the player's experience and makes games more enjoyable.
 </p></div>
