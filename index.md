@@ -49,7 +49,7 @@
 
 
 <details open>
-  #### <summary><b>▸ Delivery Rush: Timeout | Mobile Game</b></summary>
+  <summary><b>▸####  Delivery Rush: Timeout | Mobile Game</b></summary>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/deliveryrush.png" alt="DeliveryRush" width= "600" height="300">
   </div>
@@ -92,7 +92,7 @@
 
 <details open>
   <br>
-  #### <summary><b>▸ Strollmon - Walk Your Pet | Mobile Game</b></summary>
+   <summary><b>▸#### Strollmon - Walk Your Pet | Mobile Game</b></summary>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/strollmon.png" alt="Strollmon" width="600" height="300">
   </div>
