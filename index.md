@@ -16,6 +16,8 @@
   Strung Flowers | Windows 10 - 11 Game. 
 </p> </b> </div>
 <details open>
+  <div style= "margin-left: 10px><summary></summary></div>
+    <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/newstrungflowers.png" alt="StrungFlowers" width="600" height="300">
   </div>
@@ -57,6 +59,8 @@
 Delivery Rush: Timeout | Mobile Game.
 </p> </b> </div>
 <details open>
+  <div style= "margin-left: 10px><summary></summary></div>
+    <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/deliveryrush.png" alt="DeliveryRush" width= "600" height="300">
   </div>
@@ -100,6 +104,7 @@ Delivery Rush: Timeout | Mobile Game.
   Strollmon - Walk Your Pet | Mobile Game.
 </p> </b> </div>
 <details open>
+  <div style= "margin-left: 10px><summary></summary></div>
   <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/strollmon.png" alt="Strollmon" width="600" height="300">
