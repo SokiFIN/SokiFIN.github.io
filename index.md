@@ -1,17 +1,19 @@
 # About me 
 <div style="display: flex; align-items: center; line-height: 1.5;">
   <img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="300"> <br>  <br>
-  <br><p style= "font-size: 20px"> I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
+</div>
+
+<div style= "margin-left: 10px; line-height: 1;"><p style= "font-size: 15px"> I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
   <br>
   I've always been interested in user interface design and how to make interfaces more accessible for everyone. I enjoy creating UI that improves the player's experience and makes games more enjoyable.
-  </p></div>
+</p></div>
   
 <div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
-Projects
+  Projects
 </p> </b> </div>
 
-<div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 15px;">
-Strung Flowers | Windows 10 - 11 Game. 
+<div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 20px;">
+  Strung Flowers | Windows 10 - 11 Game. 
 </p> </b> </div>
 <details open>
   <div style="display: flex; justify-content: center; align-items: center;">
@@ -51,7 +53,7 @@ Strung Flowers | Windows 10 - 11 Game.
 <br>
 </details>
 
-<div style= "line-height: 1;"> <b> <p style= "font-size: 15px;">
+<div style= "line-height: 1;"> <b> <p style= "font-size: 20px;">
 Delivery Rush: Timeout | Mobile Game.
 </p> </b> </div>
 <details open>
@@ -94,7 +96,7 @@ Delivery Rush: Timeout | Mobile Game.
 <br>
 </details>
 
-<div style= "line-height: 1;"> <b> <p style= "font-size: 15px;">
+<div style= "line-height: 1;"> <b> <p style= "font-size: 20px;">
   Strollmon - Walk Your Pet | Mobile Game.
 </p> </b> </div>
 <details open>
@@ -137,7 +139,7 @@ Studies
 </div>
 
 <div style= "margin-left: 10px; line-height: 1;"> <b> <p style= "font-size: 30px;">
-Contact me.
+  Contact me.
 </p> </b> </div>
 
 <div style="margin-left: 10px; padding-top: -2px;"> 
