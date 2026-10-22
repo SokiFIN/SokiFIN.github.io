@@ -137,8 +137,8 @@ Delivery Rush: Timeout | Mobile Game.
 <!-- Game Jams. -->
   <div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px;">
     Game Jams.
-  </p> </b> </div>
   <br>
+  </p> </b> </div>
 <details closed>
   <!-- Drunk Mirror and Kajaani Klikker -->
   <div style="display: flex; gap: 40px; margin-left: 10px; line-height: 1;">
