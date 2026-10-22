@@ -53,7 +53,7 @@
   </div>
   <br>
   <div style="display: flex; padding-top: 2px;justify-content: center; align-items: center; text-decoration: underline;">
-     <p style= "font-size: 15px; text-decoration: underline;">
+     <p style= "font-size: 20px; text-decoration: underline;">
      Trailer
      </p>
   </div>
@@ -107,7 +107,7 @@ Delivery Rush: Timeout | Mobile Game. (Android)
   </div>
   <br>
   <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center; text-decoration: underline;">
-   <p style= "font-size: 15px; text-decoration: underline;">
+   <p style= "font-size: 20px; text-decoration: underline;">
    Trailer
    </p>
   </div>
@@ -169,9 +169,9 @@ Delivery Rush: Timeout | Mobile Game. (Android)
 <details open>
   <br>
   <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center;">
-   <p style= "font-size: 15px; text-decoration: underline;">
+   <b> </b><p style= "font-size: 20px; text-decoration: underline;">
    Made as a customer project for Ride Mind OY.
-   </p>
+   </p> </b>
   </div>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/metsanmysteeri.png" alt="MetsanMysteeri" width="512" height="512">
