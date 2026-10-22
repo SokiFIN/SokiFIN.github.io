@@ -134,29 +134,30 @@ Delivery Rush: Timeout | Mobile Game.
 
 </details>
 
-<div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 15px;">
-  Game Jams.
-</p> </b> </div>
+<!-- Game Jams. -->
+<details closed>
+  <div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 15px;">
+    Game Jams.
+  </p> </b> </div>
 
 <!-- Drunk Mirror. -->
-<details closed>
-  <div style="margin-left: 10px; line-height: 1;" > <b>
+  <div style="margin-left: 10px; line-height: 1; align-items: left;" > <b>
     Drunk mirror.
   </b>
-      <a href="https://the-grape-king.itch.io/drunk-mirror" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
+<br>
+      <a href="https://the-grape-king.itch.io/drunk-mirror" target="_blank" style="text-decoration: underline; color:#fa5c5c; align-items: left;">
       <span style="color:#fa5c5c; text-decoration: underline;">
         <b>Check out itch.io page</b>
       </span>
     </a>
   </div>
-</details>
-
+  
 <!-- Kajjjaani Klikker. -->
-<details closed>
-  <div style="margin-right: 10px; line-height: 1;" > <b>
+  <div style="margin-right: 10px; line-height: 1; align-items: right;" > <b>
     Kajjjaani Klikker
-  </b>
-      <a href="https://nakkivene.itch.io/kajjjaaniklikker" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
+    </b>
+  <br>
+      <a href="https://nakkivene.itch.io/kajjjaaniklikker" target="_blank" style="text-decoration: underline; color:#fa5c5c; align-items: right;">
       <span style="color:#fa5c5c; text-decoration: underline;">
         <b>Check out itch.io page</b>
       </span>
