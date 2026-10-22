@@ -253,7 +253,7 @@ Delivery Rush: Timeout | Mobile Game.
 
 <!-- Contact me page. -->
 <div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
-  Contact me.
+  Contact me
 </p> </b> </div>
 
 <div style="margin-left: 10px; padding-top: -2px;"> 
