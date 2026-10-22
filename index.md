@@ -15,7 +15,7 @@
 </p> </b> </div>
 
 <!-- Strung Flowers- -->
-<div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px;">
+<div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px; text-decoration: underline;">
   Strung Flowers | Windows 10 - 11 Game. 
 </p> </b> </div>
 <details open>
@@ -58,7 +58,7 @@
 </details>
 
 <!-- Delivery Rush. -->
-<div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px;">
+<div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px; text-decoration: underline;">
 Delivery Rush: Timeout | Mobile Game.
 </p> </b> </div>
 <details open>
@@ -103,7 +103,7 @@ Delivery Rush: Timeout | Mobile Game.
 </details>
 
 <!-- Strollmon. -->
-<div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px;">
+<div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px; text-decoration: underline;">
   Strollmon - Walk Your Pet | Mobile Game.
 </p> </b> </div>
 <details open>
@@ -135,7 +135,7 @@ Delivery Rush: Timeout | Mobile Game.
 </details>
 
 <!-- Game Jams. -->
-  <div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px;">
+  <div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px; text-decoration: underline;" >
     Game Jams.
   <br>
   </p> </b> </div>
@@ -152,6 +152,7 @@ Delivery Rush: Timeout | Mobile Game.
         style="text-decoration: underline; color: #fa5c5c;">
         <b>Check out itch.io page</b>
       </a>
+      <br>
       <div style="display: flex; justify-content: center; align-items: center;">
         <img src="assets/picture/drunkmirror.png" alt="DrunkMirror" width="200" height="100">
       </div>
@@ -167,7 +168,7 @@ Delivery Rush: Timeout | Mobile Game.
         style="text-decoration: underline; color: #fa5c5c;">
         <b>Check out itch.io page</b>
       </a>
-
+      <br>
       <div style="display: flex; justify-content: center; align-items: center;">
         <img src="assets/picture/kajjjaaniklikker.png" alt="KajjjaaniKlikker" width="200" height="100">
       </div>
@@ -186,6 +187,8 @@ Delivery Rush: Timeout | Mobile Game.
 
   </div>
 </details>
+
+
 
 
 
