@@ -53,9 +53,9 @@
   </div>
   <br>
   <div style="display: flex; padding-top: 2px;justify-content: center; align-items: center; text-decoration: underline;">
-     <p style= "font-size: 20px; text-decoration: underline;">
+     <b><p style= "font-size: 20px; text-decoration: underline;">
      Trailer
-     </p>
+     </p> </b>
   </div>
   <div style="display: flex; justify-content: center; align-items: center;">
       <iframe width="600" height="300"
@@ -107,9 +107,9 @@ Delivery Rush: Timeout | Mobile Game. (Android)
   </div>
   <br>
   <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center; text-decoration: underline;">
-   <p style= "font-size: 20px; text-decoration: underline;">
+   <b></b><p style= "font-size: 20px; text-decoration: underline;">
    Trailer
-   </p>
+   </p> </b>
   </div>
   <div style="display: flex; justify-content: center; align-items: center;">
     <iframe width="600" height="300"
