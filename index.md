@@ -142,7 +142,7 @@ Delivery Rush: Timeout | Mobile Game.
   Kajaani University of Applied Sciences, <br>
   Bachelor of Business Administration, Game Development:
 </p></b></div>
-<div style="margin-left: 30px;"><p style= "font-size: 10px;">
+<div style="margin-left: 30px;"> <p style= "font-size: 20px;">
   2023 - 2026
 </p></div>
 
