@@ -52,6 +52,10 @@
     </a>
   </div>
   <br>
+    <div style="display: flex; padding-top: 2px;justify-content: center; align-items: center; text-decoration: underline;">
+   Trailer
+  </div>
+  <br>
   <div style="display: flex; justify-content: center; align-items: center;">
       <iframe width="600" height="300"
           src="https://www.youtube.com/embed/tn564fJtAK0"
@@ -101,6 +105,10 @@ Delivery Rush: Timeout | Mobile Game. (Android)
     </a>
   </div>
   <br>
+  <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center; text-decoration: underline;">
+   Trailer
+  </div>
+  <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <iframe width="600" height="300"
         src="https://www.youtube.com/embed/KqmBHCEO14Y"
@@ -140,6 +148,7 @@ Delivery Rush: Timeout | Mobile Game. (Android)
     </ul>
   </div>
 
+
   <div style="margin-left: 15px; line-height: 1;" >
     <a href="https://nakkivene.itch.io/strollmon-walk-your-pet" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
       <span style="color:#fa5c5c; text-decoration: underline;">
@@ -157,13 +166,15 @@ Delivery Rush: Timeout | Mobile Game. (Android)
 
 <details open>
   <br>
+  <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center;">
+   Made as a customer project for Ride Mind OY.
+  </div>
+  <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/metsanmysteeri.png" alt="MetsanMysteeri" width="512" height="512">
   </div>
 
-  <div style="display: flex; padding-top: 2px; padding-left: 15px; padding-right: 15px; justify-content: center; align-items: center;">
-   Made as a customer project for Ride Mind OY.
-  </div>
+
   <div style="display: flex; padding-top: 2px; padding-left: 15px; padding-right: 15px; justify-content: center; align-items: center;">
    2D Mobile puzzle game where you play and solve puzzles with your dog companion, made in Unity 6.
    <br>
