@@ -140,30 +140,34 @@ Delivery Rush: Timeout | Mobile Game.
     Game Jams.
   </p> </b> </div>
 
-<!-- Drunk Mirror. -->
-  <div style="margin-left: 10px; line-height: 1; align-items: left;" > <b>
-    Drunk mirror.
-  </b>
-<br>
-      <a href="https://the-grape-king.itch.io/drunk-mirror" target="_blank" style="text-decoration: underline; color:#fa5c5c; align-items: left;">
-      <span style="color:#fa5c5c; text-decoration: underline;">
-        <b>Check out itch.io page</b>
-      </span>
+
+<!-- Drunk Mirror and Kajaani Klikker -->
+<div style="display: flex; gap: 40px; margin-left: 10px; line-height: 1;">
+
+  <!-- Drunk Mirror -->
+  <div>
+    <b>Drunk Mirror.</b>
+    <br>
+    <a href="https://the-grape-king.itch.io/drunk-mirror"
+       target="_blank"
+       style="text-decoration: underline; color: #fa5c5c;">
+      <b>Check out itch.io page</b>
     </a>
   </div>
-  
-<!-- Kajjjaani Klikker. -->
-  <div style="margin-right: 10px; line-height: 1; align-items: right;" > <b>
-    Kajjjaani Klikker
-    </b>
-  <br>
-      <a href="https://nakkivene.itch.io/kajjjaaniklikker" target="_blank" style="text-decoration: underline; color:#fa5c5c; align-items: right;">
-      <span style="color:#fa5c5c; text-decoration: underline;">
-        <b>Check out itch.io page</b>
-      </span>
+
+  <!-- Kajaani Klikker -->
+  <div>
+    <b>Kajaani Klikker</b>
+    <br>
+    <a href="https://nakkivene.itch.io/kajjjaaniklikker"
+       target="_blank"
+       style="text-decoration: underline; color: #fa5c5c;">
+      <b>Check out itch.io page</b>
     </a>
   </div>
-</details>
+
+</div>
+
 
 
 <!-- Studies. -->
