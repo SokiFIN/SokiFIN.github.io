@@ -145,7 +145,9 @@ Delivery Rush: Timeout | Mobile Game.
 
     <!-- Drunk Mirror -->
     <div>
-      <b>   Drunk Mirror.</b>
+      <div style="display: flex; justify-content: center; align-items: center;>
+        <b>Drunk Mirror.</b>
+      </div>
       
       <br>
       <br>
@@ -166,8 +168,11 @@ Delivery Rush: Timeout | Mobile Game.
 
     <!-- Kajjjaani Klikker -->
     <div>
-    
-      <b>   Kajjjaani Klikker</b>
+
+      <div style="display: flex; justify-content: center; align-items: center;>
+        <b>Kajjjaani Klikker</b>
+      </div>
+
       
       <br>
       <br>
@@ -188,7 +193,11 @@ Delivery Rush: Timeout | Mobile Game.
 
       <!-- TBD -->
     <div>
-      <b>   To be added.</b>
+
+      <div style="display: flex; justify-content: center; align-items: center;>
+        <b>To be added.</b>
+      </div>
+      
       <br>
       <a href="sokifin.itch.io"
         target="_blank"
