@@ -13,7 +13,7 @@
 </p></div>
   
 <!-- Projects -->
-<div style= "display: flex; justify-content: center; line-height: 1;"> <b> <p style= "font-size: 30px;">
+<div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
   Projects
 </p> </b> </div>
 
@@ -28,6 +28,7 @@
   </div>
   <div style="display: flex; justify-content: center; align-items: center; padding-top: 2px;">
     3D Dice deckbuilder roguelike made with Unity.
+   <br>
     <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
 
@@ -71,6 +72,7 @@ Delivery Rush: Timeout | Mobile Game.
   </div>
   <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center;">
     Time attack mobile game with vehicle deliveries in a city, made with Unity.
+   <br>
     <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
 
@@ -116,6 +118,7 @@ Delivery Rush: Timeout | Mobile Game.
   </div>
   <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center;">
     3D mobile game with 2D walk scene where players earn currency to customize their pet, made in Unreal Engine 5.
+   <br>
     <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
 
@@ -138,7 +141,7 @@ Delivery Rush: Timeout | Mobile Game.
 </details>
 
 <!-- Game Jams. -->
-  <div style= "display: flex; justify-content: center;  line-height: 1;"> <b> <p style= "font-size: 20px; text-decoration: underline;" >
+  <div style= "line-height: 1;"> <b> <p style= "font-size: 20px; text-decoration: underline;" >
     Game Jams.
   <br>
   </p> </b> </div>
@@ -232,7 +235,7 @@ Delivery Rush: Timeout | Mobile Game.
 
 
 <!-- Studies. -->
-<div style="display: flex; justify-content: center; line-height: 1;">
+<div style="line-height: 1;">
   <p style="font-size: 30px;"><b>
     Studies
   </b></p>
@@ -252,7 +255,7 @@ Delivery Rush: Timeout | Mobile Game.
 </div>
 
 <!-- Contact me page. -->
-<div style= "display: flex; justify-content: center; line-height: 1;"> <b> <p style= "font-size: 30px;">
+<div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
   Contact me
 </p> </b> </div>
 
