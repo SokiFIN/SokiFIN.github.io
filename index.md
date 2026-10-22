@@ -138,6 +138,7 @@ Delivery Rush: Timeout | Mobile Game.
   <div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px;">
     Game Jams.
   </p> </b> </div>
+  <br>
 <details closed>
   <!-- Drunk Mirror and Kajaani Klikker -->
   <div style="display: flex; gap: 40px; margin-left: 10px; line-height: 1;">
@@ -151,6 +152,10 @@ Delivery Rush: Timeout | Mobile Game.
         style="text-decoration: underline; color: #fa5c5c;">
         <b>Check out itch.io page</b>
       </a>
+      <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="assets/picture/drunkmirror.png" alt="DrunkMirror" width="300" height="150">
+      </div>
+
     </div>
 
     <!-- Kajaani Klikker -->
@@ -162,6 +167,10 @@ Delivery Rush: Timeout | Mobile Game.
         style="text-decoration: underline; color: #fa5c5c;">
         <b>Check out itch.io page</b>
       </a>
+
+      <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="assets/picture/kajjjaaniklikker.png" alt="KajjjaaniKlikker" width="300" height="150">
+      </div>
     </div>
 
       <!-- TBD -->
