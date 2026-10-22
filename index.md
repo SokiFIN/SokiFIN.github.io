@@ -31,7 +31,7 @@
    <br>
   </div>
 
-  <div style="margin-left: 10px; line-height: 1;">
+  <div style="margin-left: 15px; line-height: 1;">
    <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
 
@@ -44,7 +44,7 @@
     </ul>
   </div>
 
-  <div style="margin-left: 10px; line-height: 1; ">
+  <div style="margin-left: 15px; line-height: 1; ">
     <a href="https://sokifin.itch.io/strung-flowers" target="_blank" style="text-decoration: underline;">
       <span style="color:#fa5c5c; text-decoration: underline;">
         <b>Check out itch.io page</b>
@@ -79,7 +79,7 @@ Delivery Rush: Timeout | Mobile Game. (Android)
     
   </div>
 
-  <div style="margin-left: 10px; line-height: 1;">
+  <div style="margin-left: 15px; line-height: 1;">
    <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
 
@@ -93,7 +93,7 @@ Delivery Rush: Timeout | Mobile Game. (Android)
     </ul>
   </div>
 
-  <div style="margin-left: 10px; line-height: 1;">
+  <div style="margin-left: 15px; line-height: 1;">
     <a href="https://the-grape-king.itch.io/delivery-rush-timeout" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
       <span style="color:#fa5c5c; text-decoration: underline;">
         <b>Check out itch.io page</b>
@@ -128,7 +128,7 @@ Delivery Rush: Timeout | Mobile Game. (Android)
    <br>
   </div>
  
-  <div style="margin-left: 10px; line-height: 1;">
+  <div style="margin-left: 15px; line-height: 1;">
    <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
   
@@ -140,7 +140,7 @@ Delivery Rush: Timeout | Mobile Game. (Android)
     </ul>
   </div>
 
-  <div style="margin-left: 10px; line-height: 1;" >
+  <div style="margin-left: 15px; line-height: 1;" >
     <a href="https://nakkivene.itch.io/strollmon-walk-your-pet" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
       <span style="color:#fa5c5c; text-decoration: underline;">
         <b>Check out itch.io page</b>
@@ -154,17 +154,22 @@ Delivery Rush: Timeout | Mobile Game. (Android)
 <div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px; text-decoration: underline;">
   Metsän Mysteeri | Mobile Game. (Android + IOS)
 </p> </b> </div>
+
 <details open>
   <br>
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="assets/picture/metsanmysteeri.png" alt="MetsanMysteeri" width="600" height="300">
+    <img src="assets/picture/metsanmysteeri.png" alt="MetsanMysteeri" width="512" height="256">
+  </div>
+
+  <div style="display: flex; padding-top: 2px; padding-left: 15px; padding-right: 15px; justify-content: center; align-items: center;">
+   Made as a customer project for Ride Mind OY.
   </div>
   <div style="display: flex; padding-top: 2px; padding-left: 15px; padding-right: 15px; justify-content: center; align-items: center;">
    Made as a customer project for Ride Mind OY.<br> 2D Mobile puzzle game where you play and solve puzzles with your dog companion, made in Unity 6.
    <br>
   </div>
  
-  <div style="margin-left: 10px; line-height: 1;">
+  <div style="margin-left: 15px; line-height: 1;">
    <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
   
@@ -180,7 +185,7 @@ Delivery Rush: Timeout | Mobile Game. (Android)
     </ul>
   </div>
 
-  <div style="margin-left: 10px; line-height: 1;" >
+  <div style="margin-left: 15px; line-height: 1;" >
       <span style="color: #ff0000;; text-decoration: underline;">
         <b>In early access. Only available for testers on Google Play.</b>
       </span>
