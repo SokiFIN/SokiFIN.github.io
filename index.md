@@ -158,11 +158,13 @@ Delivery Rush: Timeout | Mobile Game.
       
       <br>
       
-      <a href="https://the-grape-king.itch.io/drunk-mirror"
-        target="_blank"
-        style="justify-content: center; text-decoration: underline; color: #fa5c5c; font-size: 10px;">
-        <b>Check out itch.io page</b>
-      </a>
+      <div style="text-align: center;">
+        <a href="https://the-grape-king.itch.io/drunk-mirror"
+          target="_blank"
+          style="text-decoration: underline; color: #fa5c5c; font-size: 10px;">
+          <b>Check out itch.io page</b>
+        </a>
+      </div>
       
     </div>
 
@@ -181,11 +183,13 @@ Delivery Rush: Timeout | Mobile Game.
       
       <br>
       
-      <a href="https://nakkivene.itch.io/kajjjaaniklikker"
-        target="_blank"
-        style="justify-content: center; text-decoration: underline; color: #fa5c5c; font-size: 10px;">
-        <b>Check out itch.io page</b>
-      </a>
+      <div style="text-align: center;">
+        <a href="https://nakkivene.itch.io/kajjjaaniklikker"
+          target="_blank"
+          style="text-decoration: underline; color: #fa5c5c; font-size: 10px;">
+          <b>Check out itch.io page</b>
+        </a>
+      </div>
       
     </div>
 
@@ -204,11 +208,15 @@ Delivery Rush: Timeout | Mobile Game.
       
       <br>
       <!--
-      <a href="sokifin.itch.io"
-        target="_blank"
-        style="justify-content: center; text-decoration: underline; color: #fa5c5c; font-size: 10px;">
-        <b>Check out itch.io page</b>
-      </a>
+
+      <div style="text-align: center;">
+        <a href="https://sokifin.itch.io"
+          target="_blank"
+          style="text-decoration: underline; color: #fa5c5c; font-size: 10px;">
+          <b>Check out itch.io page</b>
+        </a>
+      </div>
+
       -->
       <br><br>
     </div>
