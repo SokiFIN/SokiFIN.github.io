@@ -55,7 +55,6 @@
     <div style="display: flex; padding-top: 2px;justify-content: center; align-items: center; text-decoration: underline;">
    Trailer
   </div>
-  <br>
   <div style="display: flex; justify-content: center; align-items: center;">
       <iframe width="600" height="300"
           src="https://www.youtube.com/embed/tn564fJtAK0"
@@ -108,7 +107,6 @@ Delivery Rush: Timeout | Mobile Game. (Android)
   <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center; text-decoration: underline;">
    Trailer
   </div>
-  <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <iframe width="600" height="300"
         src="https://www.youtube.com/embed/KqmBHCEO14Y"
