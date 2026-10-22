@@ -136,7 +136,7 @@ Delivery Rush: Timeout | Mobile Game.
 
 <!-- Game Jams. -->
 <details closed>
-  <div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 15px;">
+  <div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px;">
     Game Jams.
   </p> </b> </div>
 
