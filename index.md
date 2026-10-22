@@ -3,15 +3,18 @@
   <img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="300"> <br>  <br>
 </div>
 
+<!-- Description about myself. -->
 <div style= "margin-left: 10px; line-height: 1;"><p style= "font-size:15px"> I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
   <br><br>
   I've always been interested in user interface design and how to make interfaces more accessible for everyone. I enjoy creating UI that improves the player's experience and makes games more enjoyable.
 </p></div>
   
+<!-- Projects -->
 <div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
   Projects
 </p> </b> </div>
 
+<!-- Strung Flowers- -->
 <div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px;">
   Strung Flowers | Windows 10 - 11 Game. 
 </p> </b> </div>
@@ -54,6 +57,7 @@
 <br>
 </details>
 
+<!-- Delivery Rush. -->
 <div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px;">
 Delivery Rush: Timeout | Mobile Game.
 </p> </b> </div>
@@ -98,6 +102,7 @@ Delivery Rush: Timeout | Mobile Game.
 <br>
 </details>
 
+<!-- Strollmon. -->
 <div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px;">
   Strollmon - Walk Your Pet | Mobile Game.
 </p> </b> </div>
@@ -129,6 +134,38 @@ Delivery Rush: Timeout | Mobile Game.
 
 </details>
 
+<div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 15px;">
+  Game Jams.
+</p> </b> </div>
+
+<!-- Drunk Mirror. -->
+<details closed>
+  <div style="margin-left: 10px; line-height: 1;" > <b>
+    Drunk mirror.
+  </b>
+      <a href="https://the-grape-king.itch.io/drunk-mirror" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
+      <span style="color:#fa5c5c; text-decoration: underline;">
+        <b>Check out itch.io page</b>
+      </span>
+    </a>
+  </div>
+</details>
+
+<!-- Kajjjaani Klikker. -->
+<details closed>
+  <div style="margin-right: 10px; line-height: 1;" > <b>
+    Kajjjaani Klikker
+  </b>
+      <a href="https://nakkivene.itch.io/kajjjaaniklikker" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
+      <span style="color:#fa5c5c; text-decoration: underline;">
+        <b>Check out itch.io page</b>
+      </span>
+    </a>
+  </div>
+</details>
+
+
+<!-- Studies. -->
 <div style="line-height: 1;">
   <p style="font-size: 30px;"><b>
     Studies
@@ -148,6 +185,7 @@ Delivery Rush: Timeout | Mobile Game.
   </p>
 </div>
 
+<!-- Contact me page. -->
 <div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
   Contact me.
 </p> </b> </div>
