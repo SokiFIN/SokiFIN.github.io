@@ -1,4 +1,4 @@
- <div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
+ <div style= "display: flex; justify-content: center; line-height: 1;"> <b> <p style= "font-size: 30px;">
   About me
 </p> </b> </div>
 
@@ -13,7 +13,7 @@
 </p></div>
   
 <!-- Projects -->
-<div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
+<div style= "display: flex; justify-content: center; line-height: 1;"> <b> <p style= "font-size: 30px;">
   Projects
 </p> </b> </div>
 
@@ -26,7 +26,7 @@
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/newstrungflowers.png" alt="StrungFlowers" width="600" height="300">
   </div>
-  <div style="justify-content: center; align-items: center; padding-top: 2px;">
+  <div style="display: flex; justify-content: center; align-items: center; padding-top: 2px;">
     3D Dice deckbuilder roguelike made with Unity.
     <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
@@ -69,7 +69,7 @@ Delivery Rush: Timeout | Mobile Game.
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/deliveryrush.png" alt="DeliveryRush" width= "600" height="300">
   </div>
-  <div style="padding-top: 2px; justify-content: center; align-items: center;">
+  <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center;">
     Time attack mobile game with vehicle deliveries in a city, made with Unity.
     <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
@@ -114,7 +114,7 @@ Delivery Rush: Timeout | Mobile Game.
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/strollmon.png" alt="Strollmon" width="600" height="300">
   </div>
-  <div style="padding-top: 2px; justify-content: center; align-items: center;">
+  <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center;">
     3D mobile game with 2D walk scene where players earn currency to customize their pet, made in Unreal Engine 5.
     <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
@@ -138,7 +138,7 @@ Delivery Rush: Timeout | Mobile Game.
 </details>
 
 <!-- Game Jams. -->
-  <div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px; text-decoration: underline;" >
+  <div style= "display: flex; justify-content: center;  line-height: 1;"> <b> <p style= "font-size: 20px; text-decoration: underline;" >
     Game Jams.
   <br>
   </p> </b> </div>
@@ -232,7 +232,7 @@ Delivery Rush: Timeout | Mobile Game.
 
 
 <!-- Studies. -->
-<div style="line-height: 1;">
+<div style="display: flex; justify-content: center; line-height: 1;">
   <p style="font-size: 30px;"><b>
     Studies
   </b></p>
@@ -252,7 +252,7 @@ Delivery Rush: Timeout | Mobile Game.
 </div>
 
 <!-- Contact me page. -->
-<div style= "line-height: 1;"> <b> <p style= "font-size: 30px;">
+<div style= "display: flex; justify-content: center; line-height: 1;"> <b> <p style= "font-size: 30px;">
   Contact me
 </p> </b> </div>
 
