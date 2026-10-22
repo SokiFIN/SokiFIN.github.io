@@ -7,7 +7,7 @@
 </div>
 
 <!-- Description about myself. -->
-<div style= "margin-left: 10px; line-height: 1;"><p style= "font-size:15px"> I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
+<div style= "margin-left: 10px; padding-left: 15px; padding-right: 15px; line-height: 1;"><p style= "font-size:15px"> I'm Alexander, a game developer passionate about UI design, UI programming, and developing games for mobile platforms but always open to other ways to improve my skills.
   <br><br>
   I've always been interested in user interface design and how to make interfaces more accessible for everyone. I enjoy creating UI that improves the player's experience and makes games more enjoyable.
 </p></div>
@@ -169,13 +169,12 @@ Delivery Rush: Timeout | Mobile Game. (Android)
   <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center;">
    Made as a customer project for Ride Mind OY.
   </div>
-  <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/metsanmysteeri.png" alt="MetsanMysteeri" width="512" height="512">
   </div>
 
 
-  <div style="display: flex; padding-top: 2px; padding-left: 15px; padding-right: 15px; justify-content: center; align-items: center;">
+  <div style="display: flex; padding-top: 2px; padding-left: 30px; padding-right: 30px; justify-content: center; align-items: center;">
    2D Mobile puzzle game where you play and solve puzzles with your dog companion, made in Unity 6.
    <br>
   </div>
