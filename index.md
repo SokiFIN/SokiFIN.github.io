@@ -53,9 +53,9 @@
   </div>
   <br>
   <div style="display: flex; padding-top: 2px;justify-content: center; align-items: center; text-decoration: underline;">
-     <b><p style= "font-size: 20px; text-decoration: underline;">
-     Trailer
-     </p> </b>
+     <p style= "font-size: 20px; text-decoration: underline;">
+     <b>Trailer</b>
+     </p> 
   </div>
   <div style="display: flex; justify-content: center; align-items: center;">
       <iframe width="600" height="300"
@@ -107,9 +107,9 @@ Delivery Rush: Timeout | Mobile Game. (Android)
   </div>
   <br>
   <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center; text-decoration: underline;">
-   <b></b><p style= "font-size: 20px; text-decoration: underline;">
-   Trailer
-   </p> </b>
+   <p style= "font-size: 20px; text-decoration: underline;">
+   <b>Trailer</b>
+   </p>
   </div>
   <div style="display: flex; justify-content: center; align-items: center;">
     <iframe width="600" height="300"
@@ -169,9 +169,9 @@ Delivery Rush: Timeout | Mobile Game. (Android)
 <details open>
   <br>
   <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center;">
-   <b> </b><p style= "font-size: 20px; text-decoration: underline;">
-   Made as a customer project for Ride Mind OY.
-   </p> </b>
+   <p style= "font-size: 20px; text-decoration: underline;">
+   <b>Made as a customer project for Ride Mind OY.</b>
+   </p>
   </div>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/metsanmysteeri.png" alt="MetsanMysteeri" width="512" height="512">
