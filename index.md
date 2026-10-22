@@ -145,7 +145,7 @@ Delivery Rush: Timeout | Mobile Game.
 
     <!-- Drunk Mirror -->
     <div>
-      <b>Drunk Mirror.</b>
+      <b>   Drunk Mirror.</b>
       <br>
       <a href="https://the-grape-king.itch.io/drunk-mirror"
         target="_blank"
@@ -160,9 +160,9 @@ Delivery Rush: Timeout | Mobile Game.
 
     </div>
 
-    <!-- Kajaani Klikker -->
+    <!-- Kajjjaani Klikker -->
     <div>
-      <b>Kajaani Klikker</b>
+      <b>   Kajjjaani Klikker</b>
       <br>
       <a href="https://nakkivene.itch.io/kajjjaaniklikker"
         target="_blank"
@@ -178,7 +178,7 @@ Delivery Rush: Timeout | Mobile Game.
 
       <!-- TBD -->
     <div>
-      <b>To be added.</b>
+      <b>   To be added.</b>
       <br>
       <a href="sokifin.itch.io"
         target="_blank"
@@ -203,7 +203,7 @@ Delivery Rush: Timeout | Mobile Game.
 </div>
 
 <div style="margin-left: 10px; padding-top: 0;">
-  <p style="font-size: 15px;"><b>
+  <p style="font-size: 15px; text-decoration: underline;"><b>
     Kajaani University of Applied Sciences, <br>
     Bachelor of Business Administration, Game Development:
   </b></p>
