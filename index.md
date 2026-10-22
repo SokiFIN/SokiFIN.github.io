@@ -197,11 +197,13 @@ Delivery Rush: Timeout | Mobile Game.
       </div>
       
       <br>
+      <!--
       <a href="sokifin.itch.io"
         target="_blank"
         style="text-decoration: underline; color: #fa5c5c;">
         <b>Check out itch.io page</b>
       </a>
+      -->
       <br><br>
     </div>
 
