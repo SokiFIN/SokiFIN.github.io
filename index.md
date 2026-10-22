@@ -142,7 +142,7 @@ Delivery Rush: Timeout | Mobile Game.
 <details closed>
   <br>
   <!-- Drunk Mirror and Kajaani Klikker -->
-  <div style="display: flex; gap: 40px; margin-left: 10px; line-height: 1;">
+  <div style="display: flex; justify-content: center; gap: 40px; margin-left: 10px; line-height: 1;">
 
     <!-- Drunk Mirror -->
     <div>
