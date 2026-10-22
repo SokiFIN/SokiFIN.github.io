@@ -2,7 +2,7 @@
   About me
 </p> </b> </div>
 
-<div style="align-items: center; line-height: 1.5;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="assets/picture/AlexanderPicture.png" alt="Alexander" width="300"> <br>  <br>
 </div>
 
@@ -18,7 +18,7 @@
 </p> </b> </div>
 
 <!-- Strung Flowers- -->
-<div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px; text-decoration: underline;">
+<div style= "margin-left: 5px; line-height: 1; "> <b> <p style= "font-size: 20px; text-decoration: underline;">
   Strung Flowers | Windows 10 - 11 Game. 
 </p> </b> </div>
 <details open>
@@ -26,7 +26,7 @@
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/newstrungflowers.png" alt="StrungFlowers" width="600" height="300">
   </div>
-  <div style="justify-content: center; padding-top: 2px;">
+  <div style="justify-content: center; align-items: center; padding-top: 2px;">
     3D Dice deckbuilder roguelike made with Unity.
     <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
@@ -69,7 +69,7 @@ Delivery Rush: Timeout | Mobile Game.
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/deliveryrush.png" alt="DeliveryRush" width= "600" height="300">
   </div>
-  <div style="padding-top: 2px; justify-content: center;">
+  <div style="padding-top: 2px; justify-content: center; align-items: center;">
     Time attack mobile game with vehicle deliveries in a city, made with Unity.
     <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
@@ -114,7 +114,7 @@ Delivery Rush: Timeout | Mobile Game.
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/strollmon.png" alt="Strollmon" width="600" height="300">
   </div>
-  <div style="padding-top: 2px; justify-content: center;">
+  <div style="padding-top: 2px; justify-content: center; align-items: center;">
     3D mobile game with 2D walk scene where players earn currency to customize their pet, made in Unreal Engine 5.
     <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
