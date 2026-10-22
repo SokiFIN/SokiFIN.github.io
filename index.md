@@ -16,7 +16,6 @@
   Strung Flowers | Windows 10 - 11 Game. 
 </p> </b> </div>
 <details open>
-  <summary style="margin-left: 10px;"></summary>
     <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/newstrungflowers.png" alt="StrungFlowers" width="600" height="300">
@@ -59,7 +58,6 @@
 Delivery Rush: Timeout | Mobile Game.
 </p> </b> </div>
 <details open>
-  <summary style="margin-left: 10px;"></summary>
     <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/deliveryrush.png" alt="DeliveryRush" width= "600" height="300">
@@ -104,13 +102,12 @@ Delivery Rush: Timeout | Mobile Game.
   Strollmon - Walk Your Pet | Mobile Game.
 </p> </b> </div>
 <details open>
-  <summary style="margin-left: 10px;"></summary>
   <br>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/strollmon.png" alt="Strollmon" width="600" height="300">
   </div>
   <div style="margin-left: 10px; padding-top: 2px;">
-    3D game with 2D walk scene where players earn currency to customize their pet, made in Unreal Engine 5.
+    3D mobile game with 2D walk scene where players earn currency to customize their pet, made in Unreal Engine 5.
     <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
 
@@ -146,8 +143,8 @@ Delivery Rush: Timeout | Mobile Game.
 </div>
 
 <div style="margin-left: 30px;">
-  <p style="font-size: 20px;">
-    2023 - 2026
+  <p style="font-size: 15px;">
+    2023 - 2027
   </p>
 </div>
 
