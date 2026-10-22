@@ -31,7 +31,7 @@
    <br>
   </div>
 
-  <div style="margin-left: 15px; line-height: 1;">
+  <div style="margin-left: 10px; line-height: 1;">
    <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
 
@@ -79,7 +79,7 @@ Delivery Rush: Timeout | Mobile Game.
     
   </div>
 
-  <div style="margin-left: 15px; line-height: 1;">
+  <div style="margin-left: 10px; line-height: 1;">
    <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
 
@@ -123,12 +123,12 @@ Delivery Rush: Timeout | Mobile Game.
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="assets/picture/strollmon.png" alt="Strollmon" width="600" height="300">
   </div>
-  <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center;">
+  <div style="display: flex; padding-top: 2px; padding-left: 15px; padding-right: 15px; justify-content: center; align-items: center;">
     3D mobile game with 2D walk scene where players earn currency to customize their pet, made in Unreal Engine 5.
    <br>
   </div>
  
-  <div style="margin-left: 15px; line-height: 1;">
+  <div style="margin-left: 10px; line-height: 1;">
    <p style= "font-size: 16px;"><b>My contribution</b></p>
   </div>
   
