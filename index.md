@@ -53,7 +53,7 @@
   </div>
   <br>
   <div style="display: flex; padding-top: 2px;justify-content: center; align-items: center; text-decoration: underline;">
-     <p style= "font-size: 20px; text-decoration: underline;">
+     <p style= "font-size: 16px; text-decoration: underline;">
      <b>Trailer</b>
      </p> 
   </div>
@@ -107,7 +107,7 @@ Delivery Rush: Timeout | Mobile Game. (Android)
   </div>
   <br>
   <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center; text-decoration: underline;">
-   <p style= "font-size: 20px; text-decoration: underline;">
+   <p style= "font-size: 16px; text-decoration: underline;">
    <b>Trailer</b>
    </p>
   </div>
@@ -169,7 +169,7 @@ Delivery Rush: Timeout | Mobile Game. (Android)
 <details open>
   <br>
   <div style="display: flex; padding-top: 2px; justify-content: center; align-items: center;">
-   <p style= "font-size: 20px; text-decoration: underline;">
+   <p style= "font-size: 16px; text-decoration: underline;">
    <b>Made as a customer project for Ride Mind OY.</b>
    </p>
   </div>
@@ -178,7 +178,7 @@ Delivery Rush: Timeout | Mobile Game. (Android)
   </div>
 
 
-  <div style="display: flex; padding-top: 2px; padding-left: 30px; padding-right: 30px; justify-content: center; align-items: center;">
+  <div style="display: flex; padding-top: 2px; padding-left: 50px; padding-right: 50px; justify-content: center; align-items: center;">
    2D Mobile puzzle game where you play and solve puzzles with your dog companion, made in Unity 6.
    <br>
   </div>
