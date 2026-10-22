@@ -146,34 +146,44 @@ Delivery Rush: Timeout | Mobile Game.
     <!-- Drunk Mirror -->
     <div>
       <b>   Drunk Mirror.</b>
+      
       <br>
+      <br>
+      
+      <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="assets/picture/drunkmirror.png" alt="DrunkMirror" width="150" height="75">
+      </div>
+      
+      <br>
+      
       <a href="https://the-grape-king.itch.io/drunk-mirror"
         target="_blank"
         style="text-decoration: underline; color: #fa5c5c;">
         <b>Check out itch.io page</b>
       </a>
-      <br>
-      <br>
-      <div style="display: flex; justify-content: center; align-items: center;">
-        <img src="assets/picture/drunkmirror.png" alt="DrunkMirror" width="150" height="75">
-      </div>
-
+      
     </div>
 
     <!-- Kajjjaani Klikker -->
     <div>
+    
       <b>   Kajjjaani Klikker</b>
+      
       <br>
+      <br>
+      
+      <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="assets/picture/kajjjaaniklikker.png" alt="KajjjaaniKlikker" width="150" height="75">
+      </div>
+      
+      <br>
+      
       <a href="https://nakkivene.itch.io/kajjjaaniklikker"
         target="_blank"
         style="text-decoration: underline; color: #fa5c5c;">
         <b>Check out itch.io page</b>
       </a>
-      <br>
-      <br>
-      <div style="display: flex; justify-content: center; align-items: center;">
-        <img src="assets/picture/kajjjaaniklikker.png" alt="KajjjaaniKlikker" width="150" height="75">
-      </div>
+      
     </div>
 
       <!-- TBD -->
