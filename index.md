@@ -153,8 +153,9 @@ Delivery Rush: Timeout | Mobile Game.
         <b>Check out itch.io page</b>
       </a>
       <br>
+      <br>
       <div style="display: flex; justify-content: center; align-items: center;">
-        <img src="assets/picture/drunkmirror.png" alt="DrunkMirror" width="150" height="50">
+        <img src="assets/picture/drunkmirror.png" alt="DrunkMirror" width="150" height="75">
       </div>
 
     </div>
@@ -169,8 +170,9 @@ Delivery Rush: Timeout | Mobile Game.
         <b>Check out itch.io page</b>
       </a>
       <br>
+      <br>
       <div style="display: flex; justify-content: center; align-items: center;">
-        <img src="assets/picture/kajjjaaniklikker.png" alt="KajjjaaniKlikker" width="150" height="50">
+        <img src="assets/picture/kajjjaaniklikker.png" alt="KajjjaaniKlikker" width="150" height="75">
       </div>
     </div>
 
@@ -183,6 +185,7 @@ Delivery Rush: Timeout | Mobile Game.
         style="text-decoration: underline; color: #fa5c5c;">
         <b>Check out itch.io page</b>
       </a>
+      <br><br>
     </div>
 
   </div>
