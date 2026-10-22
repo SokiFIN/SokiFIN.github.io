@@ -158,14 +158,14 @@ Delivery Rush: Timeout | Mobile Game. (Android)
 <details open>
   <br>
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="assets/picture/metsanmysteeri.png" alt="MetsanMysteeri" width="512" height="256">
+    <img src="assets/picture/metsanmysteeri.png" alt="MetsanMysteeri" width="512" height="512">
   </div>
 
   <div style="display: flex; padding-top: 2px; padding-left: 15px; padding-right: 15px; justify-content: center; align-items: center;">
    Made as a customer project for Ride Mind OY.
   </div>
   <div style="display: flex; padding-top: 2px; padding-left: 15px; padding-right: 15px; justify-content: center; align-items: center;">
-   Made as a customer project for Ride Mind OY.<br> 2D Mobile puzzle game where you play and solve puzzles with your dog companion, made in Unity 6.
+   2D Mobile puzzle game where you play and solve puzzles with your dog companion, made in Unity 6.
    <br>
   </div>
  
@@ -189,7 +189,6 @@ Delivery Rush: Timeout | Mobile Game. (Android)
       <span style="color: #ff0000;; text-decoration: underline;">
         <b>In early access. Only available for testers on Google Play.</b>
       </span>
-    </a>
   </div>
 
 </details>
