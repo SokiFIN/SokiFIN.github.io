@@ -66,7 +66,7 @@
 
 <!-- Delivery Rush. -->
 <div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px; text-decoration: underline;">
-Delivery Rush: Timeout | Mobile Game.
+Delivery Rush: Timeout | Mobile Game. (Android)
 </p> </b> </div>
 <details open>
     <br>
@@ -116,7 +116,7 @@ Delivery Rush: Timeout | Mobile Game.
 
 <!-- Strollmon. -->
 <div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px; text-decoration: underline;">
-  Strollmon - Walk Your Pet | Mobile Game.
+  Strollmon - Walk Your Pet | Mobile Game. (Android)
 </p> </b> </div>
 <details open>
   <br>
@@ -144,6 +144,45 @@ Delivery Rush: Timeout | Mobile Game.
     <a href="https://nakkivene.itch.io/strollmon-walk-your-pet" target="_blank" style="text-decoration: underline; color:#fa5c5c;">
       <span style="color:#fa5c5c; text-decoration: underline;">
         <b>Check out itch.io page</b>
+      </span>
+    </a>
+  </div>
+
+</details>
+
+<!-- Metsän Mysteeri. -->
+<div style= "margin-left: 5px; line-height: 1;"> <b> <p style= "font-size: 20px; text-decoration: underline;">
+  Metsän Mysteeri | Mobile Game. (Android + IOS)
+</p> </b> </div>
+<details open>
+  <br>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="assets/picture/metsanmysteeri.png" alt="MetsanMysteeri" width="600" height="300">
+  </div>
+  <div style="display: flex; padding-top: 2px; padding-left: 15px; padding-right: 15px; justify-content: center; align-items: center;">
+   Made as a customer project for Ride Mind OY.<br> 2D Mobile puzzle game where you play and solve puzzles with your dog companion, made in Unity 6.
+   <br>
+  </div>
+ 
+  <div style="margin-left: 10px; line-height: 1;">
+   <p style= "font-size: 16px;"><b>My contribution</b></p>
+  </div>
+  
+  <div style="margin-left: 20px; line-height: 1;">
+    <ul>
+      <li>Step counter for IOS & Android.</li>
+      <li>Traveling between rooms / Map functionality. Map where you spend your earned steps and different travel destinations</li>
+      <li>Making the game also work / build on IOS.</li>
+      <li>Bird puzzle logic where you places plaques on a tree trunk to match birds with their nests based on environment clues.</li>
+      <li>Mouse labyrinth logic where you trace a path on your device with clues from the environment. Saves your progress upon closing</li>
+      <li>UI functionality.</li>
+      <li>JSON Save system.</li>
+    </ul>
+  </div>
+
+  <div style="margin-left: 10px; line-height: 1;" >
+      <span style="color: #ff0000;; text-decoration: underline;">
+        <b>In early access. Only available for testers on Google Play.</b>
       </span>
     </a>
   </div>
