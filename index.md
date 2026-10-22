@@ -195,6 +195,12 @@ Delivery Rush: Timeout | Mobile Game.
       <div style="display: flex; justify-content: center; align-items: center;">
         <b>To be added.</b>
       </div>
+
+      <br>
+      
+      <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="assets/picture/white.png" alt="White" width="150" height="75">
+      </div>
       
       <br>
       <!--
