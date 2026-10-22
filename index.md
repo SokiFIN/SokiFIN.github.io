@@ -141,32 +141,44 @@ Delivery Rush: Timeout | Mobile Game.
   </p> </b> </div>
 
 
-<!-- Drunk Mirror and Kajaani Klikker -->
-<div style="display: flex; gap: 40px; margin-left: 10px; line-height: 1;">
+  <!-- Drunk Mirror and Kajaani Klikker -->
+  <div style="display: flex; gap: 40px; margin-left: 10px; line-height: 1;">
 
-  <!-- Drunk Mirror -->
-  <div>
-    <b>Drunk Mirror.</b>
-    <br>
-    <a href="https://the-grape-king.itch.io/drunk-mirror"
-       target="_blank"
-       style="text-decoration: underline; color: #fa5c5c;">
-      <b>Check out itch.io page</b>
-    </a>
+    <!-- Drunk Mirror -->
+    <div>
+      <b>Drunk Mirror.</b>
+      <br>
+      <a href="https://the-grape-king.itch.io/drunk-mirror"
+        target="_blank"
+        style="text-decoration: underline; color: #fa5c5c;">
+        <b>Check out itch.io page</b>
+      </a>
+    </div>
+
+    <!-- Kajaani Klikker -->
+    <div>
+      <b>Kajaani Klikker</b>
+      <br>
+      <a href="https://nakkivene.itch.io/kajjjaaniklikker"
+        target="_blank"
+        style="text-decoration: underline; color: #fa5c5c;">
+        <b>Check out itch.io page</b>
+      </a>
+    </div>
+
+      <!-- TBD -->
+    <div>
+      <b>To be added.</b>
+      <br>
+      <a href="sokifin.itch.io"
+        target="_blank"
+        style="text-decoration: underline; color: #fa5c5c;">
+        <b>Check out itch.io page</b>
+      </a>
+    </div>
+
   </div>
-
-  <!-- Kajaani Klikker -->
-  <div>
-    <b>Kajaani Klikker</b>
-    <br>
-    <a href="https://nakkivene.itch.io/kajjjaaniklikker"
-       target="_blank"
-       style="text-decoration: underline; color: #fa5c5c;">
-      <b>Check out itch.io page</b>
-    </a>
-  </div>
-
-</div>
+</details>
 
 
 
