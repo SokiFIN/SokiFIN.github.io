@@ -178,7 +178,7 @@ Delivery Rush: Timeout | Mobile Game. (Android)
   </div>
 
 
-  <div style="display: flex; padding-top: 2px; padding-left: 50px; padding-right: 50px; justify-content: center; align-items: center;">
+  <div style="display: flex; padding-top: 2px; padding-left: 55px; padding-right: 45px; justify-content: center; align-items: center;">
    2D Mobile puzzle game where you play and solve puzzles with your dog companion, made in Unity 6.
    <br>
   </div>
