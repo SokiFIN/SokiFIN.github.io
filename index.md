@@ -160,7 +160,7 @@ Delivery Rush: Timeout | Mobile Game.
       
       <a href="https://the-grape-king.itch.io/drunk-mirror"
         target="_blank"
-        style="text-decoration: underline; color: #fa5c5c; font-size: 5px;">
+        style="justify-content: center; text-decoration: underline; color: #fa5c5c; font-size: 10px;">
         <b>Check out itch.io page</b>
       </a>
       
@@ -183,7 +183,7 @@ Delivery Rush: Timeout | Mobile Game.
       
       <a href="https://nakkivene.itch.io/kajjjaaniklikker"
         target="_blank"
-        style="text-decoration: underline; color: #fa5c5c; font-size: 5px;">
+        style="justify-content: center; text-decoration: underline; color: #fa5c5c; font-size: 10px;">
         <b>Check out itch.io page</b>
       </a>
       
@@ -206,7 +206,7 @@ Delivery Rush: Timeout | Mobile Game.
       <!--
       <a href="sokifin.itch.io"
         target="_blank"
-        style="text-decoration: underline; color: #fa5c5c; font-size: 5px;">
+        style="justify-content: center; text-decoration: underline; color: #fa5c5c; font-size: 10px;">
         <b>Check out itch.io page</b>
       </a>
       -->
