@@ -140,6 +140,7 @@ Delivery Rush: Timeout | Mobile Game.
   <br>
   </p> </b> </div>
 <details closed>
+  <br>
   <!-- Drunk Mirror and Kajaani Klikker -->
   <div style="display: flex; gap: 40px; margin-left: 10px; line-height: 1;">
 
@@ -149,7 +150,6 @@ Delivery Rush: Timeout | Mobile Game.
         <b>Drunk Mirror.</b>
       </div>
       
-      <br>
       <br>
       
       <div style="display: flex; justify-content: center; align-items: center;">
@@ -173,8 +173,6 @@ Delivery Rush: Timeout | Mobile Game.
         <b>Kajjjaani Klikker</b>
       </div>
 
-      
-      <br>
       <br>
       
       <div style="display: flex; justify-content: center; align-items: center;">
